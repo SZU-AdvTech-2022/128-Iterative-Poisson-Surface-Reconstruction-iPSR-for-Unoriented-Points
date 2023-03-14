@@ -1,4 +1,4 @@
-@article{REPO-129,
+@article{REPO-128,
     author = "Hou, Fei and Wang, Chiyu and Wang, Wencheng and Qin, Hong and Qian, Chen and He, Ying",
     journal = "arXiv preprint arXiv:2209.09510",
     title = "{Iterative Poisson Surface Reconstruction (iPSR) for Unoriented Points}",
